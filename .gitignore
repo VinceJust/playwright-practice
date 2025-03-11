@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+playwright-report/
+test-results/
+*.png  # Falls Screenshots nicht ins Repo sollen
+.vscode/
+.DS_Store
+Thumbs.db
+.env
